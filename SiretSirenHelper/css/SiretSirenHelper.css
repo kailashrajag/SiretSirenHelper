@@ -1,0 +1,12 @@
+.ssh-root { font-family: "Segoe UI", sans-serif; font-size: 14px; display: flex; flex-direction: column; gap: 6px; }
+.ssh-row { display: flex; align-items: center; gap: 8px; }
+.ssh-input { flex: 1; padding: 4px 8px; border: 1px solid #8a8886; border-radius: 2px; min-height: 28px; box-sizing: border-box; }
+.ssh-input:focus { outline: 2px solid #0078d4; }
+.ssh-nic { width: 90px; flex: none; }
+.ssh-badge { font-size: 12px; padding: 2px 8px; border-radius: 10px; white-space: nowrap; }
+.ssh-ok { background: #dff6dd; color: #107c10; }
+.ssh-ko { background: #fde7e9; color: #a4262c; }
+.ssh-hint { color: #605e5c; font-size: 12px; }
+.ssh-derived { font-weight: 600; }
+.ssh-btn { padding: 2px 10px; border: 1px solid #8a8886; background: #fff; border-radius: 2px; cursor: pointer; }
+.ssh-btn:hover { background: #f3f2f1; }
