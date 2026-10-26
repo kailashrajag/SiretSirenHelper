@@ -1,3 +1,5 @@
+<img width="785" height="670" alt="image" src="https://github.com/user-attachments/assets/c1c258d1-3655-4b93-a7e6-21064bec4bd2" />
+
 # SIRET / SIREN Helper (PCF)
 
 A Power Apps component for model-driven app forms that validates French **SIRET** (14 digits) and **SIREN** (9 digits) numbers. It runs fully offline, with no API, no Power Automate and no premium licence.
